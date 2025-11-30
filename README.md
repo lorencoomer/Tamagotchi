@@ -20,7 +20,7 @@ GUI version:
 python3 tktama.py
 ```
 
-Terminal version (if included):
+Terminal version:
 
 ```plaintext
 python3 tama.py
